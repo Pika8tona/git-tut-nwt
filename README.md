@@ -1,2 +1,2 @@
 # git-tut-nwt
-github tutorial offered by sarah elmendorf
+github tutorial offered by sarah elmendorf - providing feedback
