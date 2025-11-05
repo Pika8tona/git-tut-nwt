@@ -1,1 +1,1 @@
-# my example script
+# my example script type some stuff on the first line
